@@ -11,7 +11,7 @@ My Info: <br>
 LinkedIn Profile Link: https://www.linkedin.com/in/ankush-mallick-4b8359202/ <br>
 LinkedIn Post Link:  <br>
 GitHub Profile Link: https://github.com/ankushmallick1100 <br>
-GitHub Repository Link:  <br>
+GitHub Repository Link: https://github.com/ankushmallick1100/Task-2-The-sparks-Foundation-Data-Science-and-Business-Analytics-Internship- <br>
 YouTube Video Link:  <br>
 <br>
 Visit The Sparks Foundation Website: https://internship.thesparksfoundation.info/
